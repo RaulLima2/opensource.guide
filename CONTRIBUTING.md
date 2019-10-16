@@ -1,6 +1,23 @@
 ---
 layout: default
 ---
+# Guia de contribuição para Código Aberto
+Obrigado por verificar o Guia de código aberto! Estamos felizes em ouvir e aprender com você. Suas experiências beneficiarão outras pessoas que lerem e usarem esses guias.
+Reunimos as seguintes regra para ajúdalo a descobrir como você pode ser mais produtivo.
+
+## Tabela de conteudo
+
+
+
+## Tipos de contribuições
+
+Existe varias formas para contribuir com os guias (em ordem decresente de necessidade): 
+
+* Corrigir inconsistências ou imprecisões editoriais
+* Adicione histórias, exemplos ou anedotas que ajudem a ilustrar um ponto
+* Revise o idioma para ser mais acessível e amigável
+* [Traduzir guias para outros idiomas](docs / traduções.md)
+
 
 # Contributing to Open Source Guides
 
