@@ -1,7 +1,7 @@
 ---
 lang: pt
 title: Boas Praticas para ser Responsavel
-scription:
+scription: Facilitando sua vida como mantenedor de código aberto, desde a documentação de processos até a alavancagem de sua comunidade.
 class: best-practices
 order: 5
 related: /assets/images/cards/best-practices.png
