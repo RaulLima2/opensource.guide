@@ -8,7 +8,7 @@ related: /assets/images/cards/best-practices.png
     -metrics
     -leadership
 ---
-## O que significa ser um mantenedor de c
+## O que significa manter um projeto de código aberto?
 Se você mantem um projeto de código aberto sendo utilizado por muitas pessoas, talvez tenha notado que está codificando menos e respondendo mais a problemas.
 
 Nos estágios iniciais de um projeto, você experimenta novas idéias e toma decisões com base no que deseja. À medida que seu projeto aumenta a popularidade, você estará trabalhando mais com seus usuários e colaboradores.
